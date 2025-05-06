@@ -1,0 +1,40 @@
+.orders-show {
+  .jumbotron {
+    padding: 2rem;
+    margin-bottom: 2rem;
+  }
+
+  .panel {
+    margin-bottom: 2rem;
+  }
+
+  img {
+    max-width: 100px;
+    max-height: 100px;
+  }
+
+  .text-info {
+    font-weight: bold;
+  }
+
+  table {
+    margin-top: 2rem;
+  }
+
+  td {
+    vertical-align: middle;
+  }
+
+  td:first-child {
+    width: 120px;
+  }
+
+  h4 {
+    margin-bottom: 0.5rem;
+  }
+
+  .text-right {
+    text-align: right;
+    margin-top: 2rem;
+  }
+}
